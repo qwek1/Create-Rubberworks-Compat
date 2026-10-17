@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:wires/copper"
+    },
+    {
+      "item": "rubberworks:rubber_sheet"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "powergrid:insulated_copper_wire"
+  }
+}
