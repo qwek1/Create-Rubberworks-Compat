@@ -5,6 +5,8 @@ Create: Rubberworks is a mod that replaces Dried Kelp in Create Recipes with rub
 
 I had originally only made this for my modpack All of Create but im sure there are a lot of existing modpacks and people that would want something like this that may not know how to so I decided to share it, enjoy! If you have any suggestions or mods that aren't supported just let me know in comments or messages and ill add support.
 
+To use, add the datapack into your world's datapacks folder or with a datapack loader (Paxi, Global packs...)
+
 Supported Mods:
 - Create Aeronautics
 - Create: Diesal Generators
